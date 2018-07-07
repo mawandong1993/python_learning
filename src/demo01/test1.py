@@ -1,0 +1,5 @@
+print("123456")
+print("请输入名字")
+name=input()
+print('你的名字是',name)
+print("sdsadsdsad")
